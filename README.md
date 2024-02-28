@@ -18,7 +18,7 @@
 - 💬 Be free to ask me about anything [here](https://github.com/HIM198/HIM198/issues).
 </details>
 
-<img align="center" alt="Image" src="https://i0.hdslb.com/bfs/article/33c098041d5f4a660098f6bc7432da0c917f5496.jpg@1256w_720h_!web-article-pic.avif" width="5729" height="3280" title="sayu">
+<img align="center" alt="Image" src="https://i0.hdslb.com/bfs/article/33c098041d5f4a660098f6bc7432da0c917f5496.jpg@1256w_720h_!web-article-pic.avif" width="3280" height="5729" title="sayu">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayupri)
 
