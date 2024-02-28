@@ -10,7 +10,7 @@ Welcome to my Github page!
 
 
 #### 🌱 Things I am currently working on: 
-- Learn Engilsh
+- Learning Engilsh
 - Taking online courses about Machine Learning 
 
 #### :muscle: Things I am challenging myself with:
