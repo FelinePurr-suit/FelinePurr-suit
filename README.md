@@ -1,10 +1,10 @@
 ### Hi there 👋 
-### This is SayuPri!
+### This is Sayuoo!
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sayupri)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sayuoo)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:huangsnw@outlook.com)
 
-<img align="right" alt="img" src="https://github.com/SayuPri/SayuPri/blob/main/lo.gif" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/Sayuoo/Sayuoo/blob/main/lo.gif" width="50%" height="auto" />
 
 Welcome to my Github page! 
 
