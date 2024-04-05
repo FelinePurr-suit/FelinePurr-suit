@@ -1,10 +1,10 @@
 ### Hi there 👋 
-### This is Sayuoo!
+### This is lumoo7!
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sayuoo)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/lumoo7)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:huangsnw@outlook.com)
 
-<img align="right" alt="img" src="https://github.com/Sayuoo/Sayuoo/blob/main/lo.gif" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/lumoo7/lumoo7/blob/main/lo.gif" width="50%" height="auto" />
 
 Welcome to my Github page! 
 
